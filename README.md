@@ -1,1 +1,1 @@
-Exam 2020 repository
+Exam 2020 repository. It contains the [ord2020](ord2020) Eclipse project named. The project is configured with maven, so it also can be imported into other IDEs.
