@@ -1,0 +1,4 @@
+bin/
+target/
+shoppinglist.txt
+.DS_Store
