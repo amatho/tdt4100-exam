@@ -4,11 +4,11 @@
 
 Dette er utviklingsprosjektet for hjemmeeksamen 2020. Vi har lagt inn en pakke **sample** med noen filer:
 
-- [Sample.java](sample/Sample.java)
-- [SampleApp.java](sample/SampleApp.java)
-- [SampleController.java](sample/SampleController.java)
-- [SampleTest.java](sample/SampleTest.java)
-- [sample.fxml](sample/sample.fxml)
+- [Sample.java](src/sample/Sample.java)
+- [SampleApp.java](src/sample/SampleApp.java)
+- [SampleController.java](src/sample/SampleController.java)
+- [SampleTest.java](src/sample/SampleTest.java)
+- [sample.fxml](src/sample/sample.fxml)
 
 Det er viktig at du kjører disse, og ser at det fungerer greit. Hvis det virker skal du ha et oppsett som vil fungere på eksamen. Da blir det lagt ut nye pakker som baserer seg på samme oppsett. Du kan også øve deg på zipping av prosjekt, som kreves for levering tilbake i Inspera ved eksamensslutt. Oppskriften finner du under.
 

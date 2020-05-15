@@ -4,11 +4,11 @@
 
 This is the development project for the home exam in 2020. We've added a package **sample**, containing some files:
 
-- [Sample.java](sample/Sample.java)
-- [SampleApp.java](sample/SampleApp.java)
-- [SampleController.java](sample/SampleController.java)
-- [SampleTest.java](sample/SampleTest.java)
-- [sample.fxml](sample/sample.fxml)
+- [Sample.java](src/sample/Sample.java)
+- [SampleApp.java](src/sample/SampleApp.java)
+- [SampleController.java](src/sample/SampleController.java)
+- [SampleTest.java](src/sample/SampleTest.java)
+- [sample.fxml](src/sample/sample.fxml)
 
 It is vital that you run these, and make sure everything works. If it does, your IDE is ready for the exam. Once the exam starts we will add more packages that are based on the same setup. You can also rehearse zipping the project folder, this will be necessary for upload into Inspera. Instructions follow.
 
