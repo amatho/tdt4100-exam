@@ -1,19 +1,13 @@
 # Exam TDT4100 Spring 2020
 
-**Preparations for the exam - make sure everything works**
+The exam is split in two, with several tasks in each:
 
-This is the development project for the home exam in 2020. We've added a package **sample**, containing some files:
+- [Part 1](src/stuff/README_EN.md) is made up of separate challenges, each testing different parts of the curriculum. In total they make up 25% of the exam.
+- [Part 2](src/food/README_EN.md) contains a larger programming exercise, with five tasks. In total these make up 75% of the exam.
 
-- [Sample.java](src/sample/Sample.java)
-- [SampleApp.java](src/sample/SampleApp.java)
-- [SampleController.java](src/sample/SampleController.java)
-- [SampleTest.java](src/sample/SampleTest.java)
-- [sample.fxml](src/sample/sample.fxml)
+Remember that it is easy to get lost in trying to make perfect code. Don't spend too much time on each task - you will get a better total score by finishing 80% of three tasks than 100% on one and not have time for the others. If you fail to implement a method, you can of course use it as if it worked when you work on the rest of the exam (like it was a paper exam).
 
-It is vital that you run these, and make sure everything works. If it does, your IDE is ready for the exam. Once the exam starts we will add more packages that are based on the same setup. You can also rehearse zipping the project folder, this will be necessary for upload into Inspera. Instructions follow.
-
-If it doesn't work, we recommend that you install Eclipse again, following the instructions at https://www.ntnu.no/wiki/display/tdt4100/Installasjon+av+Eclipse. This ensures that you have a clean installation - you do not have to uninstall the previous Eclipse installation. If things still don't work, please contact us.
-
+All tasks are described in text, but this doesn't necessarily contain all information. For a breakdown of requirements for a method, consult the javadoc above the method itself. The javadoc for a method is a comment in front of the method in the source code, explaining the functionality. 
 
 ## Delivery
 When you are ready to deliver your exam, your project folder needs to be zipped and uploaded to Inspera. You can prepare the zip file like this:
