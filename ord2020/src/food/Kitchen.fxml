@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ 
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="food.KitchenController">
+	<children>
+		<HBox>
+			<children>
+				<ComboBox fx:id="recipeSelector" onAction="#updateSelected" ></ComboBox>
+				<TextField fx:id="portionField"></TextField>
+				<Button onAction="#addRecipeToWeekly" text="Add" />
+			</children>
+		</HBox>
+		<TextArea fx:id="recipesChosen" editable="false" prefHeight="100.0" wrapText="true" />
+		<Button onAction="#submitWeeklyRecipes" text="Submit weekly recipes" />
+	</children>
+</VBox>
