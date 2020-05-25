@@ -55,6 +55,7 @@ public class IngredientContainer implements Ingredients {
 	@Override
 	public Iterable<String> ingredientNames() {
 		// TODO
+		return null;
 	}
 
 	/**
@@ -63,6 +64,7 @@ public class IngredientContainer implements Ingredients {
 	@Override
 	public Collection<String> getIngredientNames() {
 		// TODO
+		return null;
 	}
 
 	/**
@@ -73,6 +75,7 @@ public class IngredientContainer implements Ingredients {
 	@Override
 	public double getIngredientAmount(String ingredient) {
 		// TODO
+		return 0;
 	}
 
 	/**
@@ -89,6 +92,7 @@ public class IngredientContainer implements Ingredients {
 	@Override
 	public String toString() {
 		// TODO
+		return null;
 	}
 
 	/**
@@ -118,6 +122,7 @@ public class IngredientContainer implements Ingredients {
 	@Override
 	public boolean containsIngredients(Ingredients other) {
 		// TODO
+		return false;
 	}
 
 	/**
@@ -128,6 +133,7 @@ public class IngredientContainer implements Ingredients {
 	@Override
 	public Ingredients missingIngredients(Ingredients other) {
 		// TODO
+		return null;
 	}
 
 	/**
@@ -140,6 +146,7 @@ public class IngredientContainer implements Ingredients {
 	@Override
 	public Ingredients scaleIngredients(double scale) {
 		// TODO
+		return null;
 	}
 	
 	
