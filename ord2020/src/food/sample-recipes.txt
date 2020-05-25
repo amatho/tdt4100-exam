@@ -1,0 +1,236 @@
+name$category$nPortions$ingredients$amounts
+Apple Frangipan Tart$Dessert$4$butter;free-range eggs, beaten;butter, softened;digestive biscuits;Bramley apples;ground almonds;almond extract;caster sugar;flaked almonds$75.0;2.0;75.0;175.0;200.0;75.0;5.0;75.0;50.0
+Apple & Blackberry Crumble$Dessert$4$Ice Cream;Plain Flour;Blackberrys;Caster Sugar;Butter;Demerara Sugar;Cinnamon;Braeburn Apples$1.0;120.0;120.0;60.0;90.0;30.0;1.0;300.0
+Bakewell tart$Dessert$4$butter;raspberry jam;free-range egg, beaten;ground almonds;almond extract;plain flour;caster sugar;cold water;flaked almonds;chilled butter$125.0;15.0;1.0;125.0;1.0;175.0;125.0;37.5;50.0;75.0
+Bread and Butter Pudding$Dessert$4$eggs;butter;bread;cinnamon;sultanas;milk;double cream;sugar;nutmeg$2.0;25.0;8.0;10.0;50.0;350.0;50.0;25.0;1.0
+Beef Wellington$Beef$4$mushrooms;Egg Yolks;Beef Fillet;English Mustard;Puff Pastry;Olive Oil;Parma ham;Flour$400.0;2.0;750.0;22.5;500.0;1.0;6.0;1.0
+Baingan Bharta$Vegetarian$4$Oil;salt;Onion;Green Chili;Aubergine;Garlic;Tomatoes;Red Chili Powder;Coriander Leaves$1.0;1.0;1.0;1.0;1.0;6.0;1.0;1.0;1.0
+Beef Brisket Pot Roast$Beef$4$Salt;Bay Leaves;Carrots;Potatoes;Onion;Rosemary;Garlic;Mustard;Thyme;Beef Brisket;beef stock$1.0;4.0;3.0;4.0;3.0;1.0;5.0;15.0;1.0;4.0;2.0
+Beef Sunday Roast$Beef$4$Broccoli;sunflower oil;Carrots;Potatoes;milk;Beef;plain flour;Eggs$12.0;1.0;1.0;1.0;200.0;8.0;140.0;4.0
+Braised Beef Chilli$Beef$4$Bay Leaves;Balsamic Vinegar;Onions;Cloves;Plum Tomatoes;Cumin;Oregano;Olive oil;All spice;Ancho Chillies;Cinnamon stick;Dark Brown Sugar;Borlotti Beans;Garlic;Beef;Tomato Ketchup;Chorizo$3.0;45.0;3.0;5.0;2.0;10.0;2.0;1.0;10.0;2.0;1.0;30.0;2.0;4.0;1000.0;30.0;300.0
+Beef stroganoff$Beef$4$Beef Fillet;Plain Flour;English Mustard;Onions;Mushrooms;Butter;Garlic;Creme Fraiche;Parsley;Olive Oil;Beef Stock$500.0;15.0;15.0;1.0;250.0;15.0;1.0;150.0;1.0;1.0;100.0
+Broccoli & Stilton soup$Starter$4$Rapeseed Oil;Stilton Cheese;Broccoli;Celery;Potatoes;Onion;Vegetable Stock;Butter;Leek$2.0;140.0;1.0;1.0;1.0;1.0;1.0;1.0;1.0
+Bean & Sausage Hotpot$Miscellaneous$4$Black Treacle;English Mustard;Butter Beans;Tomato Sauce;Sausages$1.0;5.0;1200.0;1.0;8.0
+Banana Pancakes$Dessert$4$Vanilla Extract;Oil;Raspberries;Pecan Nuts;Eggs;Baking Powder;Banana$1.0;5.0;125.0;25.0;2.0;1.0;1.0
+Beef Dumpling Stew$Beef$4$Water;Plain Flour;Onions;Butter;Olive Oil;Swede;Thyme;Baking Powder;Bay Leaf;Carrots;Celery;Suet;Garlic;Parsley;Beef;Leek;Red Wine;Beef Stock$1.0;127.0;175.0;25.0;30.0;200.0;45.0;5.0;2.0;150.0;150.0;60.0;2.0;3.0;750.0;2.0;150.0;500.0
+Beef and Mustard Pie$Beef$4$Egg Yolks;Plain Flour;Onion;Pepper;Butter;Puff Pastry;Thyme;Rapeseed Oil;Salt;Carrots;Green Beans;Beef;Mustard;Red Wine;Beef Stock$2.0;30.0;1.0;1.0;25.0;400.0;3.0;30.0;1.0;2.0;300.0;1000.0;30.0;200.0;400.0
+Beef and Oyster pie$Beef$4$Plain Flour;Stout;Butter;Oysters;Olive Oil;Bacon;Thyme;Corn Flour;Eggs;Bay Leaf;Salt;Shallots;Garlic;Beef;Beef Stock$400.0;330.0;250.0;8.0;45.0;125.0;1.0;30.0;1.0;2.0;1.0;3.0;2.0;900.0;400.0
+Blackberry Fool$Dessert$4$Plain Flour;Double Cream;Caster Sugar;Lemon Juice;Mint;Butter;Yogurt;Lemon;Baking Powder;Blackberrys;Hazlenuts;Sugar$150.0;300.0;180.0;15.0;1.0;125.0;100.0;1.0;1.0;600.0;50.0;75.0
+Battenberg Cake$Dessert$4$Vanilla Extract;Caster Sugar;Almonds;Butter;Apricot;Icing Sugar;Pink Food Colouring;Baking Powder;Eggs;Marzipan;Almond Extract;Self-raising Flour$2.0;350.0;100.0;350.0;200.0;1.0;1.0;2.0;6.0;1000.0;2.0;280.0
+Beef Bourguignon$Beef$4$Celeriac;Garlic Clove;Tomato Puree;Olive Oil;Bacon;Thyme;Bouquet Garni;Bay Leaf;Challots;Chestnut Mushroom;Cardamom;Rosemary;Red Wine;Goose Fat;Beef Shin$600.0;2.0;15.0;30.0;100.0;1.0;1.0;2.0;350.0;250.0;4.0;1.0;750.0;15.0;600.0
+Brie wrapped in prosciutto & brioche$Side$4$Plain Flour;Yeast;Brie;Caster Sugar;Butter;Prosciutto;Eggs;Milk$375.0;7.0;250.0;50.0;180.0;8.0;3.0;75.0
+Boulangère Potatoes$Side$4$Olive Oil;Onions;Potatoes;Vegetable Stock;Thyme$30.0;2.0;1500.0;425.0;1.0
+BeaverTails$Dessert$4$Water;Salt;Yeast;Oil;Butter;Flour;Cinnamon;Lemon;Sugar;Eggs;Milk$1.0;2.0;2.0;1.0;6.0;1.5;1.0;1.0;1.0;2.0;1.0
+Brown Stew Chicken$Chicken$4$Garlic Clove;Onions;Coconut Milk;Vegetable Oil;Tomato;Allspice;Thyme;Lime;Carrots;Soy Sauce;Chicken;Cornstarch;Red Pepper$2.0;2.0;2.0;15.0;1.0;5.0;10.0;1.0;1.0;30.0;1.0;10.0;1.0
+Beef Lo Mein$Beef$4$Water;Oyster Sauce;Egg;Pepper;Starch;Onion;Mushrooms;Ginger;Bean Sprouts;Salt;Sesame Seed Oil;Oil;Soy Sauce;Beef;Minced Garlic;Sugar;Noodles$1.0;15.0;1.0;1.0;45.0;1.0;1.0;5.0;1.0;1.0;10.0;75.0;5.0;1.0;5.0;5.0;1.0
+Baked salmon with fennel & tomatoes$Seafood$4$Fennel;Black Olives;Salmon;Parsley;Olive Oil;Cherry Tomatoes;Lemon$2.0;1.0;350.0;2.0;15.0;175.0;1.0
+Budino Di Ricotta$Dessert$4$Lemons;Dark Rum;Flour;Icing Sugar;Cinnamon;Ricotta;Eggs;Sugar$2.0;75.0;45.0;1.0;5.0;500.0;4.0;250.0
+Breakfast Potatoes$Breakfast$4$Garlic Clove;Salt;Potatoes;Pepper;Parsley;Olive Oil;Maple Syrup;Bacon;Allspice$1.0;1.0;3.0;1.0;1.0;15.0;15.0;2.0;1.0
+Bitterballen (Dutch meatballs)$Beef$4$Salt;Nutmeg;Onion;Pepper;Butter;Breadcrumbs;Parsley;Flour;Beef;Beef Stock;Eggs$1.0;1.0;30.0;1.0;100.0;50.0;15.0;200.0;400.0;700.0;2.0
+BBQ Pork Sloppy Joes with Pickled Onion & Sweet Potato Wedges$Pork$4$Hotsauce;Potatoes;Pepper;Red Onions;Vegetable Oil;Bread;Lime;Salt;Barbeque Sauce;Garlic;Tomato Ketchup;Pork;Sugar$1.0;2.0;1.0;1.0;1.0;2.0;1.0;1.0;1.0;2.0;1.0;1.0;1.0
+Beef Banh Mi Bowls with Sriracha Mayo, Carrot & Pickled Cucumber$Beef$4$Lime;Garlic Clove;Ground Beef;Carrots;Onion;Soy Sauce;Cucumber;Rice$1.0;3.0;1.0;3.0;1.0;2.0;1.0;1.0
+Big Mac$Beef$4$Onion;Pepper;Cheese;Olive Oil;Sesame Seed Burger Buns;Onion Salt;Iceberg Lettuce;Mayonnaise;White Wine Vinegar;Paprika;Minced Beef;Garlic Powder;Mustard;Dill Pickles$1.0;1.0;2.0;30.0;2.0;2.0;1.0;1.0;10.0;1.0;400.0;2.0;10.0;2.0
+Chocolate Gateau$Dessert$4$Butter;Flour;Plain chocolate;Granulated Sugar;Eggs;Milk$175.0;125.0;250.0;175.0;5.0;2.0
+Chicken Enchilada Casserole$Chicken$4$shredded Monterey Jack cheese;chicken breasts;Enchilada sauce;corn tortillas$3.0;2.0;14.0;6.0
+Cream Cheese Tart$Starter$4$Plum tomatoes;Egg;Butter;Cheese;Flour;Eggs;Salt;Honey;Parmesan Cheese;Basil;White Vinegar;Milk$350.0;1.0;125.0;300.0;250.0;3.0;1.0;15.0;100.0;1.0;45.0;100.0
+Christmas Pudding Flapjack$Dessert$4$orange;salted butter;golden syrup;Christmas pudding;rolled oats;dark soft brown sugar$1.0;250.0;150.0;250.0;500.0;225.0
+Chicken Handi$Chicken$4$Ginger paste;Onion;Chilli powder;Cream;Vegetable oil;Yogurt;fenugreek;Garam masala;Turmeric powder;Salt;Cumin seeds;Coriander seeds;Chicken;Garlic;Tomatoes;Green chilli$15.0;5.0;5.0;3.0;1.0;1.0;3.0;5.0;5.0;1.0;10.0;15.0;1200.0;8.0;2.0;2.0
+Chicken Alfredo Primavera$Chicken$4$garlic;bowtie pasta;Pepper;onion;Butter;milk;Olive Oil;Squash;Parmesan cheese;mushrooms;Salt;Broccoli;white wine;red pepper flakes;heavy cream;Chicken;Parsley$3.0;16.0;1.0;1.0;2.0;1.0;3.0;1.0;1.0;8.0;5.0;1.0;1.0;1.0;1.0;5.0;1.0
+Chicken Fajita Mac and Cheese$Chicken$4$fajita seasoning;chicken breast;garlic;red pepper;salt;chicken stock;onion;macaroni;parsley;cheddar cheese;heavy cream;olive oil$1.0;3.0;2.0;2.0;5.0;2.0;1.0;500.0;1.0;1.0;1.0;30.0
+Cajun spiced fish tacos$Seafood$4$avocado;garlic;flour tortilla;white fish;cajun;sour cream;vegetable oil;little gem lettuce;salsa;lemon;cayenne pepper;spring onion$1.0;1.0;8.0;4.0;30.0;1.0;5.0;2.0;1.0;1.0;5.0;4.0
+Crock Pot Chicken Baked Tacos$Chicken$4$Vinaigrette Dressing;Shredded Mexican Cheese;Smoked Paprika;Cumin;Grape Tomatoes;Jalapeno;Refried Beans;Chicken Breasts;Hard Taco Shells;Green Salsa;Sour Cream;Avocado;Garlic;Milk$1.0;2.0;1.0;11.0;1.0;1.0;1.0;5.0;12.0;2.0;3.0;1.0;5.0;1.0
+Chicken Karaage$Chicken$4$Soy sauce;Potato starch;Granulated sugar;Garlic;Vegetable oil;Ginger;Chicken thigh;Lemon;Sake$2.0;1.0;10.0;1.0;1.0;1.0;450.0;1.0;1.0
+Coq au vin$Chicken$4$Chicken Stock;butter;tomato puree;Brandy;Olive Oil;bay leaves;Bacon;Chicken Breasts;thyme;parsley;chestnut mushroom;Shallots;Chicken Thighs;Rosemary;Garlic;Chicken Legs;plain flour;Red Wine$150.0;5.0;10.0;45.0;11.0;2.0;3.0;2.0;3.0;1.0;250.0;12.0;4.0;2.0;3.0;2.0;30.0;600.0
+Chilli prawn linguine$Pasta$4$Garlic Clove;Caster Sugar;Linguine Pasta;Olive Oil;Cherry Tomatoes;Bread;Sugar Snap Peas;Fromage Frais;Lime;Basil Leaves;Lettuce;Red Chilli;King Prawns$2.0;10.0;280.0;2.0;12.0;1.0;200.0;30.0;2.0;1.0;1.0;1.0;24.0
+Clam chowder$Starter$4$Plain Flour;Double Cream;Potatoes;Onion;Butter;Parsley;Clams;Bacon;Thyme;Bay Leaf;Milk$1.0;150.0;2.0;1.0;50.0;1.0;11.0;150.0;1.0;1.0;150.0
+Creamy Tomato Soup$Starter$4$Whole Milk;Onions;Potatoes;Vegetable Stock Cube;Olive Oil;Tomato Puree;Chopped Tomatoes;Bay Leaf;Carrots;Celery;White Vinegar;Sugar;Passata$400.0;2.0;500.0;3.0;45.0;5.0;11.0;4.0;300.0;2.0;2.0;2.0;500.0
+Chicken & mushroom Hotpot$Chicken$4$Plain Flour;Nutmeg;Sweetcorn;Potatoes;Onion;Mushrooms;Butter;Mustard Powder;Chicken;Chicken Stock Cube$40.0;1.0;2.0;2.0;1.0;100.0;51.0;1.0;250.0;1.0
+Chicken Couscous$Chicken$4$Chicken Stock;Onion;Couscous;Coriander;Chickpeas;Olive Oil;Ginger;Dried Apricots;Chicken Breast;Harissa Spice$200.0;1.0;200.0;1.0;220.0;15.0;1.0;10.0;200.0;2.0
+Chocolate Avocado Mousse$Dessert$4$Water;Sea Salt;Honey;Lemon Juice;Vanilla;Avocado;Cacao;Banana$30.0;1.0;2.0;5.0;5.0;1.0;45.0;1.0
+Choc Chip Pecan Pie$Dessert$4$Plain Flour;Vanilla Extract;Dark Brown Soft Sugar;Butter;Cream Cheese;Light Brown Soft Sugar;Pecan Nuts;Icing Sugar;Maple Syrup;Dark Chocolate Chips;Eggs$300.0;5.0;100.0;225.0;100.0;250.0;400.0;1.0;200.0;200.0;4.0
+Chocolate Raspberry Brownies$Dessert$4$Plain Flour;Raspberries;Dark Chocolate;Light Brown Soft Sugar;Milk Chocolate;Salted Butter;Cocoa;Eggs$140.0;200.0;200.0;400.0;100.0;250.0;50.0;4.0
+Chickpea Fajitas$Vegetarian$4$Red Onions;Coriander;Chickpeas;Olive Oil;Lime;Paprika;Corn Tortillas;Red Wine Vinegar;Sour Cream;Avocado;Tomatoes;Harissa Spice$1.0;1.0;400.0;1.0;1.0;1.0;4.0;10.0;100.0;1.0;2.0;10.0
+Chicken Ham and Leek Pie$Chicken$4$Chicken Stock;Sea Salt;Plain Flour;Double Cream;Pepper;Butter;Ham;White Wine;Garlic;Leek;Chicken Breast;Free-range Egg, Beaten;Cold Water;Milk$450.0;1.0;400.0;150.0;1.0;275.0;150.0;45.0;2.0;2.0;3.0;2.0;1.0;200.0
+Chicken Parmentier$Chicken$4$Chicken Stock;Gruyere cheese;Egg Yolks;Garlic Clove;Double Cream;Potatoes;Tinned Tomatos;Butter;Tomato Puree;Carrots;Black Olives;Celery;Shallots;White Wine;Chicken;Parsley$350.0;50.0;2.0;1.0;5.0;1500.0;400.0;60.0;1.0;3.0;16.0;2.0;7.0;60.0;600.0;30.0
+Carrot Cake$Dessert$4$Walnuts;Plain Flour;Caster Sugar;Butter;Vegetable Oil;Eggs;Salt;Bicarbonate Of Soda;Carrots;Cream Cheese;Cinnamon;Sugar$150.0;400.0;150.0;100.0;450.0;5.0;1.0;10.0;500.0;200.0;10.0;550.0
+Chelsea Buns$Dessert$4$Salt;Yeast;Caster Sugar;Butter;Dried Fruit;White Flour;Vegetable Oil;Cinnamon;Eggs;Milk;Brown Sugar$5.0;7.0;30.0;65.0;150.0;500.0;1.0;10.0;1.0;330.0;75.0
+Chocolate Souffle$Dessert$4$Egg Yolks;Double Cream;Caster Sugar;Dark Chocolate;Butter;Single Cream;Icing Sugar;Egg White$4.0;60.0;75.0;275.0;25.0;142.0;1.0;5.0
+Chinon Apple Tarts$Dessert$4$Dark Brown Soft Sugar;Red Wine Jelly;Puff Pastry;Cardamom;Creme Fraiche;Icing Sugar;Braeburn Apples$60.0;60.0;320.0;3.0;100.0;15.0;3.0
+Chicken Marengo$Chicken$4$Black Olives;Mushrooms;Parsley;Olive Oil;Chicken Legs;Passata;Chicken Stock Cube$100.0;300.0;1.0;15.0;4.0;500.0;1.0
+Canadian Butter Tarts$Dessert$4$Walnuts;Vanilla Extract;Raisins;Butter;Single Cream;Shortcrust Pastry;Muscovado Sugar;Eggs$50.0;5.0;100.0;50.0;20.0;375.0;175.0;2.0
+Chicken Basquaise$Chicken$4$Chicken Stock;Bay Leaves;Pepper;Butter;Red Onions;Olive Oil;Tomato Puree;Basmati Rice;Thyme;Salt;Lemons;Dry White Wine;Black Olives;Paprika;Sun-Dried Tomatoes;Chicken;Garlic;Red Pepper;Chorizo$350.0;4.0;1.0;25.0;2.0;6.0;1.0;300.0;1.0;1.0;2.0;180.0;100.0;1.0;8.0;1500.0;6.0;3.0;130.0
+Callaloo Jamaican Style$Miscellaneous$4$Paprika;Onion;Garlic;Vegetable Oil;Red Pepper;Kale;Bacon;Tomato;Thyme;Banana$1.0;1.0;3.0;1.0;1.0;1.0;2.0;1.0;1.0;4.0
+Chicken Congee$Chicken$4$Water;Salt;Pepper;Coriander;Chicken;Ginger;Ginger Cordial;Spring Onions;Rice$8.0;1.0;1.0;2.0;8.0;5.0;5.0;15.0;1.0
+Chocolate Caramel Crispy$Dessert$4$Milk Chocolate;Mars Bar;Rice Krispies;Butter$150.0;6.0;120.0;150.0
+Chakchouka $Miscellaneous$4$Salt;Paprika;Onion;Cumin;Chili Powder;Green Pepper;Garlic;Tomatoes;Olive Oil;Red Pepper;Eggs$3.0;5.0;1.0;5.0;1.0;1.0;3.0;4.0;30.0;1.0;4.0
+Cashew Ghoriba Biscuits$Dessert$4$Egg Yolks;Orange Blossom Water;Icing Sugar;Almonds;Cashew Nuts$2.0;30.0;100.0;100.0;250.0
+Corba$Side$4$Water;Sea Salt;Onion;Lentils;Cumin;Mint;Tomato Puree;Thyme;Red Pepper Flakes;Carrots;Paprika;Vegetable Stock;Black Pepper$1.0;1.0;1.0;1.0;10.0;1.0;15.0;1.0;1.0;1.0;5.0;4.0;1.0
+Christmas Pudding Trifle$Dessert$4$Double Cream;Custard;Dark Chocolate;Grand Marnier;Demerara Sugar;Orange;Mascarpone;Flaked Almonds;Christmas Pudding$284.0;500.0;1.0;30.0;15.0;3.0;250.0;1.0;300.0
+Classic Christmas pudding$Dessert$4$Plain Flour;Nutmeg;Almonds;Bramley Apples;Candied Peel;Brandy;Raisins;Butter;Breadcrumbs;Muscovado Sugar;Eggs$140.0;1.0;50.0;2.0;200.0;30.0;1000.0;250.0;100.0;100.0;3.0
+Christmas cake$Dessert$4$Plain Flour;Sherry;Rose water;Vanilla Extract;Candied Peel;Butter;Muscovado Sugar;Pecan Nuts;Lemon;Mixed Spice;Eggs;Baking Powder;Raisins;Currants;Ground Almonds;Glace Cherry$200.0;100.0;2.0;1.0;85.0;200.0;200.0;100.0;1.0;2.0;4.0;1.0;250.0;250.0;50.0;85.0
+Corned Beef and Cabbage$Beef$4$Small Potatoes;Carrots;Cabbage;Beef Brisket$10.0;5.0;1.0;3.0
+Crispy Sausages and Greens$Pork$4$Chicken Stock;Garlic Clove;Salt;Onion;Pepper;Cabbage;Shiitake Mushrooms;Kale;Italian Fennel Sausages$1.0;8.0;1.0;1.0;1.0;1.0;1.0;1.0;8.0
+Chicken Quinoa Greek Salad$Chicken$4$Quinoa;Black Olives;Red Chilli;Mint;Butter;Red Onions;Garlic;Olive Oil;Chicken Breast;Feta;Lemon$225.0;1.0;1.0;1.0;25.0;1.0;1.0;30.0;400.0;100.0;1.0
+Chick-Fil-A Sandwich$Chicken$4$Celery Salt;Egg;Flour;Icing Sugar;Olive Oil;Pickle Juice;Salt;Sesame Seed Burger Buns;Paprika;Garlic Powder;Cayenne Pepper;Chicken Breast;Black Pepper;Milk$1.0;1.0;1.0;15.0;1.0;1.0;1.0;1.0;1.0;1.0;1.0;1.0;1.0;1.0
+Dal fry$Vegetarian$4$Water;Ghee;Green Chili;Chopped tomatoes;Ginger;Cilantro;Bay Leaf;Turmeric;Mustard Seeds;Salt;Cumin seeds;Toor dal;Red Pepper;Garam Masala;Sugar$1.5;45.0;1.0;1.0;2.0;30.0;2.0;1.0;1.0;6.0;1.0;1.0;1.0;1.0;5.0
+Dundee cake$Dessert$4$Plain Flour;Almonds;Caster Sugar;Butter;Muscovado Sugar;Orange;Baking Powder;Eggs;Apricot Jam;Dried Fruit;Ground Almonds;Glace Cherry;Milk$225.0;100.0;10.0;180.0;180.0;1.0;5.0;3.0;45.0;500.0;100.0;100.0;45.0
+Duck Confit$Miscellaneous$4$Sea Salt;Duck Legs;White Wine;Garlic;Thyme;Bay Leaf$1.0;4.0;100.0;4.0;1.0;4.0
+Eton Mess$Dessert$4$strawberries;double cream;meringue nests;ginger cordial;Mint$500.0;400.0;3.0;15.0;1.0
+Eccles Cakes$Dessert$4$Plain Flour;Butter;Mixed Peel;Currants;Muscovado Sugar;Ginger;Cinnamon;Allspice;Lemon;Eggs;Sugar$350.0;275.0;50.0;200.0;100.0;5.0;5.0;5.0;2.0;1.0;1.0
+English Breakfast$Breakfast$4$Mushrooms;Sausages;Tomatoes;Bacon;Black Pudding;Eggs;Bread$2.0;2.0;2.0;3.0;1.0;2.0;1.0
+Escovitch Fish$Seafood$4$Red Snapper;Onion;Scotch Bonnet;Pepper;Vegetable Oil;Ginger;Allspice;Thyme;Worcestershire Sauce;Bay Leaf;Yellow Pepper;Lime;Carrots;Malt Vinegar;Garlic;Red Pepper;Sugar$2.0;1.0;1.0;1.0;1.0;1.0;1.0;2.0;5.0;1.0;0.5;1.0;1.0;3.0;1.0;0.5;15.0
+Egg Drop Soup$Vegetarian$4$Chicken Stock;Water;Salt;Peas;Sesame Seed Oil;Pepper;Mushrooms;Cornstarch;Spring Onions;Sugar$3.0;30.0;1.0;1.0;5.0;1.0;1.0;15.0;1.0;1.0
+Fish pie$Seafood$4$Double Cream;Gruyère;Nutmeg;Plain flour;Prawns;Dill;Olive Oil;Lemon;Semi-skimmed Milk;Parsley;Leek;White Fish Fillets;Jerusalem Artichokes;Floury Potatoes$45.0;25.0;1.0;15.0;200.0;1.0;30.0;2.0;600.0;1.0;1.0;800.0;200.0;900.0
+French Lentils With Garlic and Thyme$Miscellaneous$4$French Lentils;Salt;Carrot;Celery;Onion;Garlic;Olive Oil;Thyme;Bay Leaf$3.0;1.0;1.0;2.0;1.0;2.0;3.0;5.0;3.0
+Fettucine alfredo$Pasta$4$Clotted Cream;Fettuccine;Parmesan Cheese;Nutmeg;Butter;Parsley;Corn Flour$227.0;250.0;100.0;1.0;25.0;1.0;5.0
+Full English Breakfast$Breakfast$4$Mushrooms;Sausages;Baked Beans;Tomatoes;Bacon;Black Pudding;Eggs;Bread$4.0;4.0;100.0;3.0;4.0;2.0;2.0;1.0
+French Onion Soup$Side$4$Garlic Clove;Plain Flour;Gruyère;Dry White Wine;Onion;Butter;Olive Oil;Sugar;Beef Stock;Bread$4.0;30.0;140.0;250.0;1000.0;50.0;15.0;5.0;1.0;4.0
+Flamiche$Vegetarian$4$Water;Salt;Egg Yolks;Plain Flour;Nutmeg;Lard;Egg;Butter;Creme Fraiche;Leek;Cheddar Cheese$30.0;2.0;3.0;225.0;1.0;60.0;1.0;135.0;300.0;1000.0;50.0
+French Omelette$Miscellaneous$4$Gruyère;Parmesan;Butter;Tarragon;Parsley;Eggs;Chives$60.0;5.0;2.0;3.0;1.0;3.0;1.0
+Fish Stew with Rouille$Seafood$4$White Fish;Potatoes;Prawns;Onion;Olive Oil;Tomato Puree;Orange;Star Anise;Chopped Tomatoes;Thyme;Bay Leaf;Bread;Fennel;Dry White Wine;Mussels;Fish Stock;Garlic;Harissa Spice$200.0;1.0;6.0;1.0;45.0;30.0;1.0;1.0;400.0;2.0;1.0;1.0;1.0;150.0;1.0;200.0;3.0;2.0
+Fennel Dauphinoise$Side$4$Fennel;Double Cream;Parmesan Cheese;Potatoes;Butter;Garlic;Milk$1.0;100.0;1.0;225.0;1.0;1.0;75.0
+Fruit and Cream Cheese Breakfast Pastries$Breakfast$4$Vanilla Extract;Strawberries;Raspberries;Cream Cheese;Puff Pastry;Flour;Blackberries;Sugar$5.0;1.0;1.0;2.0;2.0;1.0;1.0;2.0
+French Onion Chicken with Roasted Carrots & Mashed Potatoes$Chicken$4$Onion;Pepper;Butter;Mozzarella;Vegetable Oil;Chicken Breasts;Salt;Carrots;Sour Cream;Small Potatoes;Beef Stock;Sugar$1.0;1.0;1.0;2.0;1.0;2.0;1.0;12.0;30.0;5.0;1.0;1.0
+Garides Saganaki$Seafood$4$Chopped onion;Raw king prawns;Freshly chopped parsley;Cubed Feta cheese;Minced garlic;White wine;Chopped tomatoes;Olive oil$1.0;500.0;1.0;1.0;1.0;250.0;1.0;3.0
+Grilled Mac and Cheese Sandwich$Pasta$4$Plain Flour;Whole Milk;Monterey Jack Cheese;Butter;Mustard Powder;Bread;garlic powder;Garlic powder;Kosher salt;Colby Jack Cheese;Macaroni;Black pepper;Cheddar Cheese;Cayenne pepper;Heavy Cream$1.0;2.0;1.0;14.0;3.0;16.0;5.0;1.0;1.0;8.0;8.0;1.0;8.0;1.0;1.0
+General Tso's Chicken$Chicken$4$Water;Chicken Stock;Plain Flour;Egg;Starch;Rice Vinegar;Ginger;Baking Powder;Duck Sauce;Salt;Honey;Onion Salt;Sesame Seed Oil;Garlic Powder;Gochujang;Soy Sauce;Garlic;Chicken Breast;Spring Onions$3.0;1.0;3.0;1.0;60.0;15.0;5.0;15.0;1.0;5.0;30.0;1.0;30.0;1.0;1.0;45.0;1.0;2.0;2.0
+Gigantes Plaki$Vegetarian$4$Garlic Clove;Dried Oregano;Onion;Butter Beans;Olive Oil;Tomato Puree;Tomatoes;Chopped Parsley;Cinnamon;Sugar$2.0;15.0;1.0;400.0;45.0;30.0;800.0;30.0;1.0;15.0
+Honey Teriyaki Salmon$Seafood$4$Soy Sauce;Sesame Seed;Olive oil;Salmon;Sake$2.0;4.0;1.0;1.0;2.0
+Hot Chocolate Fudge$Dessert$4$White Chocolate Chips;Miniature Marshmallows;Vanilla Extract;Condensed Milk;Chocolate Chips;Heavy Cream$1.0;1.0;5.0;1.0;2.0;30.0
+Hot and Sour Soup$Pork$4$Chicken Stock;Hotsauce;Water;Mushrooms;Pepper;Vinegar;Tofu;Salt;Wood Ear Mushrooms;Sesame Seed Oil;Soy Sauce;Cornstarch;Spring Onions;Pork;Sugar$1.5;1.0;30.0;1.0;1.0;1.0;2.0;1.0;1.0;5.0;5.0;15.0;1.0;1.0;1.0
+Home-made Mandazi$Breakfast$4$Self-raising Flour;Sugar;Eggs;Milk$750.0;6.0;2.0;1.0
+Honey Balsamic Chicken with Crispy Broccoli & Potatoes$Chicken$4$Chicken Stock;Honey;Broccoli;Balsamic Vinegar;Potatoes;Butter;Garlic;Vegetable Oil;Olive Oil;Chicken Breast$1.0;1.0;1.0;1.0;5.0;15.0;2.0;15.0;15.0;2.0
+Honey Yogurt Cheesecake$Dessert$4$Greek Yogurt;Honey;Almonds;Fruit Mix;Butter;Digestive Biscuits;Mascarpone;Lemon;Orange;Eggs$250.0;250.0;85.0;1.0;85.0;100.0;750.0;1.0;1.0;2.0
+Irish stew$Beef$4$whole wheat;lamb loin chops;chicken stock;oregano;celeriac;charlotte potatoes;white wine;shallots;olive oil;carrots;fresh thyme;turnips;caster sugar$300.0;2.0;450.0;4.0;1.0;350.0;150.0;24.0;120.0;4.0;4.0;2.0;5.0
+Jam Roly-Poly$Dessert$4$Custard;Vanilla;Suet;Raspberry Jam;Butter;Self-raising Flour;Milk$1.0;1.0;50.0;100.0;50.0;250.0;150.0
+Jerk chicken with rice & peas$Chicken$4$Onion;Coconut Milk;Vegetable Oil;Ginger;Allspice;Basmati Rice;Thyme;Lime;Red Chilli;Chicken Thighs;Soy Sauce;Garlic;Kidney Beans;Spring Onions;Brown Sugar$1.0;400.0;30.0;1.0;30.0;200.0;3.0;2.0;3.0;12.0;30.0;5.0;800.0;2.0;45.0
+Jamaican Beef Patties$Beef$4$Water;Plain Flour;Onions;Egg;Butter;Vegetable Oil;Curry Powder;Allspice;Thyme;Salt;Minced Beef;Garlic;Red Pepper;Black Pepper;Tomato Ketchup$19.0;4.0;2.0;1.0;250.0;30.0;5.0;5.0;15.0;6.0;900.0;2.0;1.0;1.0;30.0
+Kapsalon$Lamb$4$Hotsauce;Gouda cheese;Lettuce;Fries;Garlic sauce;Tomato;Cucumber;Doner Meat$1.0;100.0;1.0;250.0;1.0;1.0;3.0;500.0
+Kentucky Fried Chicken$Chicken$4$basil;oregano;allspice;Flour;Egg White;black pepper;celery salt;Salt;onion salt;garlic powder;Oil;paprika;marjoram;chili powder;sage;Chicken;Brown Sugar$1.0;1.0;1.0;2.0;1.0;5.0;1.0;1.0;2.0;1.0;2.0;1.0;1.0;5.0;1.0;1.0;1.0
+Katsu Chicken curry$Chicken$4$chicken breast;garlic;onions;egg;chicken stock;vegetable oil;soy sauce;garam masala;sunflower oil;honey;bay leaf;plain flour;curry powder;breadcrumbs;carrot$4.0;5.0;2.0;1.0;600.0;230.0;4.0;5.0;2.0;2.0;1.0;4.0;4.0;100.0;2.0
+Key Lime Pie$Dessert$4$Egg Yolks;Lime;Double Cream;Condensed Milk;Butter;Digestive Biscuits;Icing Sugar$3.0;4.0;300.0;400.0;150.0;300.0;1.0
+Kidney Bean Curry$Vegetarian$4$Paprika;Onion;Cumin;Coriander;Vegetable Oil;Garlic;Kidney Beans;Ginger;Garam Masala;Basmati Rice;Chopped Tomatoes$5.0;1.0;5.0;1.0;1.0;2.0;400.0;1.0;10.0;1.0;400.0
+Kedgeree$Seafood$4$Smoked Haddock;Bay Leaves;Onion;Coriander;Parsley;Vegetable Oil;Curry Powder;Eggs;Milk;Rice$300.0;2.0;1.0;5.0;1.0;30.0;10.0;4.0;300.0;300.0
+Kung Pao Chicken$Chicken$4$Water;Garlic Clove;Peanuts;Rice Vinegar;Chilli Powder;Corn Flour;Water Chestnut;Sake;Sesame Seed Oil;Soy Sauce;Chicken;Spring Onions;Brown Sugar$30.0;6.0;100.0;5.0;15.0;30.0;220.0;30.0;30.0;30.0;500.0;4.0;15.0
+Kung Po Prawns$Seafood$4$Garlic Clove;Caster Sugar;Peanuts;Prawns;Tomato Puree;Ginger;Corn Flour;Water Chestnut;Sunflower Oil;Soy Sauce;Chilli;Brown Sugar$6.0;5.0;85.0;400.0;5.0;1.0;5.0;450.0;5.0;30.0;3.0;15.0
+Kafteji$Vegetarian$4$Salt;Potatoes;Onions;Pepper;Pumpkin;Green Pepper;Olive Oil;Ras el hanout;Eggs$1.0;5.0;5.0;1.0;500.0;1.0;30.0;15.0;24.0
+Keleya Zaara$Lamb$4$Water;Onion;Butter;Parsley;Olive Oil;Saffron;Lemon;Lamb$25.0;1.0;15.0;30.0;60.0;2.0;1.0;750.0
+Kumpir$Side$4$Red Chile Flakes;Potatoes;Onion;Butter;Cheese;Red Pepper$1.0;2.0;1.0;30.0;150.0;1.0
+Krispy Kreme Donut$Dessert$4$Water;Yeast;Vanilla;Shortening;Butter;Flour;Canola Oil;Eggs;Salt;Boiling Water;Sugar;Milk$3.0;1.0;2.0;1.0;1.0;5.0;1.0;2.0;5.0;6.0;3.0;1.0
+Lamb tomato and sweet spices$Lamb$4$garlic;cinnamon;onion;lamb mince;basmati rice;vine leaves;fennel bulb;clove;tomatoes;ginger;potato;chopped parsley;coriander;olive oil;lemon juice;caster sugar$4.0;1.0;1.0;400.0;30.0;50.0;1.0;1.0;802.0;4.0;1.0;30.0;2.0;30.0;45.0;5.0
+Lamb Biryani$Lamb$4$Ghee;Cashew nuts;Biryani masala;Basmati rice;Onions;Cloves;Mint;Cilantro;Full fat yogurt;Lamb;Cumin Seeds;Khus khus;Red Chilli powder;Cumin seeds;Cardamom;Garlic;Saffron;Cinnamon;Bay leaf;Ginger garlic paste$30.0;12.0;15.0;2.0;3.0;3.0;1.0;1.0;1.0;1.0;15.0;1.0;5.0;1.0;2.0;4.0;1.0;1.0;1.0;10.0
+Lamb Rogan josh$Lamb$4$Greek yogurt;Onion;cinnamon stick;Coriander;Madras Paste;Ginger;Lamb;Bay Leaf;Tomato Purée;Sunflower Oil;Paprika;Clove;Cardamom;Garlic$150.0;2.0;1.0;1.0;30.0;1.0;1.0;2.0;15.0;60.0;10.0;4.0;6.0;4.0
+Laksa King Prawn Noodles$Seafood$4$fish sauce;coriander;Thai red curry paste;coconut milk;lime;king prawns;rice noodles;Olive Oil;red chili;vegetable stock cube$10.0;1.0;3.0;400.0;2.0;150.0;100.0;15.0;1.0;1.0
+Lamb Tagine$Lamb$4$Vegetable Stock Cube;Onion;Cumin;Apricot;Olive Oil;Ginger;Honey;Lamb Leg;Carrots;Butternut Squash;Couscous;Garlic;Parsley;Saffron;Cinnamon$1.0;1.0;1.0;100.0;2.0;1.0;1.0;500.0;2.0;1.0;1.0;2.0;1.0;1.0;5.0
+Lasagne$Pasta$4$Onion;Mozzarella Balls;Creme Fraiche;Olive Oil;Tomato Puree;Bacon;Chopped Tomatoes;Honey;Basil Leaves;Carrots;Parmesan Cheese;Celery;Minced Beef;Lasagne Sheets;Garlic$1.0;125.0;400.0;1.0;1.0;2.0;800.0;1.0;1.0;1.0;50.0;1.0;500.0;500.0;2.0
+Lamb and Potato pie$Lamb$4$Lamb Shoulder;Carrots;Potatoes;Onion;Vegetable Stock;Vegetable Oil;Shortcrust Pastry;Flour;Eggs$500.0;2.0;500.0;1.0;350.0;1.0;450.0;1.0;1.0
+Lancashire hotpot$Lamb$4$Chicken Stock;Plain Flour;Bay Leaves;Carrots;Onions;Potatoes;Butter;Lamb Kidney;Worcestershire Sauce;Lamb$500.0;25.0;2.0;4.0;2.0;900.0;100.0;3.0;10.0;900.0
+Leblebi Soup$Vegetarian$4$Salt;Lime;Onion;Vegetable Stock;Pepper;Cumin;Chickpeas;Garlic;Olive Oil;Harissa Spice$1.0;1.0;1.0;1000.0;1.0;5.0;250.0;5.0;30.0;5.0
+Lasagna Sandwiches$Pasta$4$Salt;Dried Oregano;Sour Cream;Butter;Mozzarella;Bacon;Tomato;Chopped Onion;Bread$1.0;1.0;1.0;3.0;4.0;8.0;8.0;30.0;8.0
+Lamb and Lemon Souvlaki$Lamb$4$Sea Salt;Lamb Leg;Pita Bread;Dill;Garlic;Olive Oil;Lemon$10.0;750.0;1.0;15.0;2.0;60.0;1.0
+Lamb Tzatziki Burgers$Lamb$4$Greek Yogurt;Paprika;Cumin;Mint;Coriander;Lamb Mince;Garlic;Bun;Olive Oil;Cucumber;Bulgur Wheat$200.0;5.0;5.0;30.0;5.0;500.0;1.0;4.0;1.0;1.0;25.0
+Mediterranean Pasta Salad$Seafood$4$pepper;tuna;salt;farfalle;fresh basil;Green Olives;mozzarella balls;baby plum tomatoes;extra virgin olive oil$1.0;200.0;1.0;350.0;1.0;40.0;200.0;250.0;3.0
+Massaman Beef curry$Beef$4$Tamarind paste;Peanuts;Potatoes;Jasmine Rice;Onion;Massaman curry paste;Lime;Cinnamon stick;Fish Sauce;Coconut cream;Brown sugar;Beef;chilli$15.0;85.0;450.0;1.0;1.0;60.0;4.0;1.0;15.0;400.0;1.0;600.0;1.0
+Mushroom & Chestnut Rotolo$Vegetarian$4$Truffle Oil;Mushrooms;Breadcrumbs;Chestnuts;Sage;Challots;Wild Mushrooms;White Wine;Lasagne Sheets;Rosemary;Soy Sauce;Garlic$1.0;30.0;60.0;240.0;1.0;3.0;500.0;125.0;350.0;3.0;2.0;3.0
+Matar Paneer$Vegetarian$4$Turmeric;Peas;Sunflower Oil;Cumin;Coriander;Naan Bread;Paneer;Ginger;Garam Masala;Green Chilli;Tomato$5.0;150.0;1.0;5.0;5.0;1.0;225.0;2.0;5.0;1.0;4.0
+Minced Beef Pie$Beef$4$Egg Yolks;Plain Flour;Minced Beef;Onion;Mushrooms;Vegetable Oil;Shortcrust Pastry;Tomato Puree;Worcestershire Sauce;Beef Stock$1.0;2.0;500.0;1.0;75.0;30.0;400.0;1.0;1.0;250.0
+McSinghs Scotch pie$Lamb$4$Garlic Clove;Egg Yolks;Plain Flour;Nutmeg;Lard;Pepper;Cumin;Red Onions;Coriander;Rapeseed Oil;Salt;Lamb Mince;Red Pepper;Green Chilli;Milk$6.0;1.0;340.0;5.0;150.0;5.0;10.0;2.0;55.0;15.0;1.0;1000.0;1.0;3.0;90.0
+Madeira Cake$Dessert$4$Caster Sugar;Butter;Mixed Peel;Self-raising Flour;Lemon;Eggs;Milk$175.0;175.0;1.0;250.0;1.0;3.0;45.0
+Montreal Smoked Meat$Beef$4$Celery Salt;Cloves;Onion;Dill;Coriander;Beef Brisket;Bay Leaf;Salt;Red Pepper Flakes;English Mustard;Paprika;Garlic;Black Pepper;Sugar$15.0;5.0;15.0;15.0;30.0;1.0;5.0;45.0;5.0;5.0;15.0;15.0;90.0;15.0
+Ma Po Tofu$Beef$4$Water;Pepper;Olive Oil;Ginger;Tofu;Sichuan pepper;Salt;Sesame Seed Oil;Scallions;Fermented Black Beans;Minced Beef;Soy Sauce;Garlic;Cornstarch;Spring Onions;Doubanjiang$403.0;15.0;30.0;4.0;450.0;1.0;1.0;1.0;2.0;1.0;100.0;15.0;2.0;15.0;4.0;2.0
+Mbuzi Choma (Roasted Goat)$Goat$4$Salt;Goat Meat;Onion;Tomatoes;Coriander Leaves;Green Chilli;Corn Flour$1.0;1000.0;1.0;2.0;1.0;1.0;1000.0
+Mince Pies$Dessert$4$Plain Flour;Caster Sugar;Egg;Butter;Icing Sugar;Mincemeat$350.0;100.0;1.0;225.0;1.0;280.0
+Moussaka$Beef$4$Greek Yogurt;Egg;Potatoes;Parmesan;Aubergine;Beef;Tomato Puree;Tomato$150.0;1.0;350.0;45.0;1.0;500.0;60.0;400.0
+Nutty Chicken Curry$Chicken$4$Chicken Stock;Greek Yogurt;Sunflower Oil;Peanut Butter;Red Chilli;Coriander;Garlic;Ginger;Chicken Breasts$150.0;200.0;15.0;5.0;1.0;1.0;1.0;0.5;4.0
+New York cheesecake$Dessert$4$Plain Flour;Caster Sugar;Lemon Juice;Butter;Sour Cream;Cream Cheese;Sugar;Eggs$45.0;265.0;12.0;85.0;540.0;900.0;15.0;3.0
+Nanaimo Bars$Dessert$4$Double Cream;Caster Sugar;Egg;Almonds;Custard Powder;Desiccated Coconut;Butter;Digestive Biscuits;Icing Sugar;Cocoa;Custard;Dark Chocolate$60.0;50.0;1.0;50.0;45.0;100.0;150.0;200.0;250.0;75.0;125.0;150.0
+Osso Buco alla Milanese$Miscellaneous$4$Chicken Stock;Orange Zest;Carrot;Onion;Butter;Flour;Olive Oil;Bay Leaf;Fennel;Veal;Marjoram;Dry White Wine;Celery;Garlic;Parsley;Lemon Zest;Tomatoes$1.0;2.0;1.0;1.0;3.0;1.0;2.0;1.0;1.0;4.0;2.0;1.0;1.0;4.0;2.0;1.0;1.0
+Oxtail with broad beans$Beef$4$Water;Broad Beans;Onion;Scotch Bonnet;Vegetable Oil;Ginger;Corn Flour;Fresh Thyme;Oxtail;Soy Sauce;Garlic;Spring Onions$380.0;200.0;1.0;1.0;30.0;5.0;15.0;1.0;450.0;30.0;2.0;1.0
+Pad See Ew$Chicken$4$white vinegar;garlic;dark soy sauce;Egg;soy sauce;peanut oil;rice stick noodles;water;Chinese broccoli;oyster sauce;Chicken;sugar$10.0;2.0;30.0;1.0;10.0;30.0;6.0;30.0;4.0;30.0;1.0;10.0
+Potato Gratin with Chicken$Chicken$4$Chicken Stock;Peas;Potatoes;Onions;Parmesan;Creme Fraiche;Olive Oil;Spinach;Bacon;Chicken Breasts$100.0;1.0;800.0;3.0;1.0;1.0;2.0;1.0;4.0;4.0
+Poutine$Miscellaneous$4$Cheese Curds;Vegetable Oil;Potatoes;Beef Gravy$2.0;1.0;5.0;1.0
+Pilchard puttanesca$Pasta$4$Black Olives;Spaghetti;Onion;Parmesan;Red Chilli;Garlic;Olive Oil;Tomato Puree;Pilchards$70.0;300.0;1.0;1.0;1.0;2.0;1.0;1.0;425.0
+Pork Cassoulet$Pork$4$Haricot Beans;Onion;Breadcrumbs;Tomato Puree;Bread;Broccoli;Carrots;Oil;Vegetable Stock;Red Wine Vinegar;Rosemary;Garlic;Parsley;Pork;Goose Fat;Fennel Seeds$400.0;1.0;2.0;1.0;1.0;1.0;1.0;1.0;600.0;2.0;2.0;10.0;1.0;350.0;60.0;5.0
+Pancakes$Dessert$4$Sunflower Oil;Raspberries;Flour;Blueberries;Eggs;Sugar;Milk$1.0;1.0;100.0;1.0;2.0;1.0;300.0
+Pumpkin Pie$Dessert$4$Salt;Plain Flour;Nutmeg;Caster Sugar;Pumpkin;Butter;Shortcrust Pastry;Icing Sugar;Cinnamon;Eggs;Milk$1.0;1.0;1.0;140.0;750.0;25.0;350.0;1.0;5.0;2.0;175.0
+Peanut Butter Cheesecake$Dessert$4$Gelatine Leafs;Double Cream;Peanut Butter;Butter;Peanut Cookies;Light Brown Soft Sugar;Peanut Brittle;Ricotta;Golden Syrup;Milk$5.0;275.0;175.0;50.0;175.0;2.0;1.0;500.0;175.0;150.0
+Peach & Blueberry Grunt$Dessert$4$Caster Sugar;Butter;Muscovado Sugar;Cinnamon;Orange;Blueberries;Self-raising Flour;Corn Flour;Peaches;Milk$30.0;50.0;100.0;5.0;3.0;250.0;200.0;5.0;6.0;6.0
+Parkin Cake$Dessert$4$Egg;Ground Ginger;Butter;Black Treacle;Oatmeal;Self-raising Flour;Milk;Golden Syrup;Brown Sugar$1.0;15.0;200.0;85.0;100.0;250.0;60.0;200.0;85.0
+Pear Tarte Tatin$Dessert$4$Caster Sugar;Brandy;Butter;Cardamom;Puff Pastry;Pears;Cinnamon;Star Anise$100.0;30.0;100.0;3.0;500.0;8.0;1.0;2.0
+Provençal Omelette Cake$Vegetarian$4$Garlic Clove;Courgettes;Olive Oil;Rocket;Eggs;Parmesan;Red Chilli;Cream Cheese;Basil;Red Pepper;Spring Onions;Milk;Chives$1.0;2.0;15.0;1.0;10.0;1.0;1.0;300.0;30.0;4.0;3.0;6.0;60.0
+Prawn & Fennel Bisque$Side$4$Double Cream;Onion;Prawns;Brandy;Olive Oil;Chopped Tomatoes;Fennel;Carrots;Dry White Wine;Paprika;Fish Stock;Tiger Prawns$150.0;1.0;8.0;15.0;60.0;400.0;1.0;2.0;150.0;2.0;1.0;450.0
+Pate Chinois$Beef$4$Salt;Potatoes;Paprika;Minced Beef;Onion;Pepper;Butter;Parsley;Creamed Corn;Milk$1.0;4.0;1.0;450.0;1.0;1.0;60.0;1.0;500.0;1.0
+Pouding chomeur$Dessert$4$Vanilla Extract;Butter;Single Cream;Flour;Maple Syrup;Sugar;Eggs;Baking Powder;Milk;Brown Sugar$5.0;2.0;2.0;2.0;2.0;1.0;2.0;5.0;2.0;2.0
+Peanut Butter Cookies$Dessert$4$Peanut Butter;Egg;Sugar$1.0;1.0;1.0
+Pizza Express Margherita$Miscellaneous$4$Water;Salt;Plain Flour;Yeast;Basil;Mozzarella;Oregano;Olive Oil;Black Pepper;Sugar;Passata$150.0;2.0;225.0;15.0;1.0;70.0;1.0;1.0;1.0;5.0;80.0
+Rigatoni with fennel sausage sauce$Lamb$4$Italian fennel sausages;garlic;pitted black olives;anchovy fillet;red wine;basil leaves;rigatoni;pecorino;onion;fennel seeds;chopped tomatoes;fennel bulb;smoky paprika;olive oil;caster sugar$6.0;2.0;1.0;30.0;2.0;60.0;50.0;500.0;1.0;1.0;100.0;1.0;1.0;22.0;400.0
+Rocky Road Fudge$Dessert$4$Miniature Marshmallows;Vanilla Extract;Peanut Butter;Peanuts;Chocolate Chips$2.0;5.0;1.0;2.0;3.0
+Recheado Masala Fish$Seafood$4$Pepper;Cumin;Tamarind ball;Mackerel;Ginger;Vinegar;Turmeric;Cinnamon stick;Oil;Clove;Cardamom;Garlic;Sugar;Red Chili$7.5;5.0;2.0;4.0;1.0;37.5;1.0;1.0;1.0;4.0;2.0;8.0;15.0;18.0
+Ribollita$Vegetarian$4$Water;Canned tomatoes;Carrot;Wholegrain Bread;Red Onion;Cannellini Beans;Onion;Olive Oil;Kale;Thyme;Celery;Parmesan;Rosemary;Garlic$4.0;1.0;1.0;4.0;1.0;2.0;1.0;5.0;1.0;1.0;1.0;1.0;1.0;1.0
+Roasted Eggplant With Tahini, Pine Nuts, and Lentils$Vegetarian$4$Water;Apple Cider Vinegar;Bay Leaves;Onion;Pepper;Olive Oil;Pine nuts;Salt;Brown Lentils;Carrots;Celery;Egg Plants;Rosemary;Garlic;Parsley$4.0;2.0;2.0;1.0;1.0;2.0;1.0;1.0;12.0;2.0;2.0;2.0;4.0;6.0;2.0
+Rock Cakes$Dessert$4$Vanilla Extract;Caster Sugar;Butter;Dried Fruit;Self-raising Flour;Baking Powder;Eggs;Milk$10.0;75.0;125.0;150.0;225.0;5.0;1.0;15.0
+Ratatouille$Vegetarian$4$Garlic Clove;Onion;Red Wine Vinegar;Aubergine;Courgettes;Basil;Olive Oil;Tomato;Sugar;Yellow Pepper$3.0;1.0;5.0;2.0;4.0;1.0;75.0;4.0;5.0;2.0
+Rappie Pie$Chicken$4$Chicken Stock;Salt;Onions;Potatoes;Butter;Chicken Breast;Black Pepper$4.0;30.0;2.0;4000.0;30.0;1500.0;15.0
+Red Peas Soup$Beef$4$Water;Garlic Clove;Plain Flour;Potatoes;Onion;Coconut Milk;Allspice;Thyme;Carrots;Kidney Beans;Red Pepper;Beef;Black Pepper;Spring Onions$3.0;4.0;1.0;4.0;1.0;1.0;15.0;4.0;1.0;2.0;2.0;2.0;1.0;2.0
+Roast fennel and aubergine paella$Vegan$4$Onion;Courgettes;Frozen Peas;Lemon;Fennel;Salt;Baby Aubergine;Paprika;Vegetable Stock;White Wine;Paella Rice;Parsley;Red Pepper;Saffron;Black Pepper$1.0;1.0;100.0;1.0;4.0;1.0;6.0;5.0;700.0;200.0;300.0;1.0;1.0;1.0;1.0
+Spaghetti Bolognese$Beef$4$garlic;onions;spaghetti;tomato puree;worcestershire sauce;mushrooms;lean minced beef;tomatoes;olive oil;hot beef stock;dried oregano;parmesan$1.0;2.0;350.0;15.0;15.0;90.0;500.0;400.0;15.0;300.0;5.0;1.0
+Spicy Arrabiata Penne$Vegetarian$4$garlic;Parmigiano-Reggiano;penne rigate;basil;italian seasoning;olive oil;chopped tomatoes;red chile flakes$3.0;1.0;1.0;6.0;1.0;1.0;1.0;1.0
+Smoky Lentil Chili with Squash$Vegetarian$4$Water;Sea Salt;Apple Cider Vinegar;Cashews;Smoked Paprika;Onion;Cumin;Chili Powder;Coriander;Olive Oil;Cocoa;Diced Tomatoes;Squash;Dried Oregano;Brown Lentils;Carrots;Garlic;Leek;Cinnamon$3.0;5.0;5.0;1.0;5.0;1.0;4.0;5.0;2.0;1.0;5.0;1.0;1.0;1.0;2.0;3.0;3.0;1.0;1.0
+Sticky Toffee Pudding Ultimate$Dessert$4$eggs;black treacle;butter;Medjool dates;milk;water;vanilla extract;demerara sugar;ice cream;bicarbonate of soda;muscovado sugar;double cream;self-raising flour$2.0;45.0;135.0;225.0;100.0;175.0;5.0;140.0;1.0;5.0;175.0;225.0;175.0
+Spicy North African Potato Salad$Vegetarian$4$Spring onions;Salt;Pepper;Mint;Small Potatoes;olive oil;Harissa Spice;Rocket;Lemon;Feta;Pine nuts$4.0;1.0;1.0;20.0;650.0;10.0;5.0;150.0;1.0;80.0;2.0
+Stovetop Eggplant With Harissa, Chickpeas, and Cumin Yogurt$Vegetarian$4$Egg Plants;Greek yogurt;Ground cumin;Chickpeas;Parsley;Olive Oil;Cherry Tomatoes;Harissa$6.0;2.0;1.0;1.0;1.0;4.0;2.0;1.0
+Salmon Prawn Risotto$Seafood$4$butter;lemon;white wine;vegetable stock;Parmesan;onion;salmon;King Prawns;asparagus;rice;black pepper$50.0;1.0;125.0;1.0;50.0;1.0;150.0;240.0;100.0;150.0;1.0
+Salted Caramel Cheescake$Dessert$4$Sea Salt;Vanilla Extract;Double Cream;Toffee Popcorn;Butter;Cream Cheese;Digestive Biscuits;Pretzels;Icing Sugar;Caramel Sauce;Caramel$5.0;5.0;300.0;1.0;135.0;450.0;250.0;75.0;100.0;1.0;150.0
+Seafood fideuà$Seafood$4$Vermicelli;Monkfish;Onions;Prawns;Olive Oil;Baby Squid;Lemon;Paprika;Mussels;Fish Stock;Garlic;Parsley;Saffron;Tomatoes$350.0;1.0;1.0;8.0;5.0;4.0;1.0;30.0;400.0;650.0;3.0;1.0;2.0;2.0
+Spinach & Ricotta Cannelloni$Vegetarian$4$Nutmeg;Caster Sugar;Cannellini Beans;Mozzarella;Olive Oil;Chopped Tomatoes;Ricotta;Basil Leaves;Parmesan;Red Wine Vinegar;Garlic;Spinach;Mascarpone;Milk$1.0;45.0;400.0;2.0;45.0;403.0;3.0;1.0;185.0;2.0;8.0;1000.0;2.0;45.0
+Squash linguine$Vegetarian$4$Garlic;Olive Oil;Sage;Butternut Squash;Linguine Pasta$3.0;45.0;1.0;350.0;350.0
+Spanish Tortilla$Vegetarian$4$Baguette;Potatoes;Onion;Butter;Garlic;Parsley;Olive Oil;Eggs;Vine Tomatoes$1.0;400.0;1.0;25.0;6.0;1.0;60.0;8.0;4.0
+Steak and Kidney Pie$Beef$4$Egg Yolks;Plain Flour;Onions;Pepper;Puff Pastry;Vegetable Oil;Egg White;Worcestershire Sauce;Salt;Beef;Lamb Kidney;Beef Stock$1.0;30.0;2.0;1.0;300.0;30.0;1.0;1.0;1.0;70.0;200.0;85.0
+Sticky Toffee Pudding$Dessert$4$Double Cream;Vanilla Extract;Bicarbonate Of Soda;Butter;Black Treacle;Muscovado Sugar;Self-raising Flour;Eggs;Baking Powder;Milk$300.0;5.0;5.0;200.0;60.0;300.0;225.0;2.0;5.0;275.0
+Spotted Dick$Dessert$4$Salt;Custard;Caster Sugar;Suet;Currants;Self-raising Flour;Lemon;Orange;Milk$1.0;1.0;80.0;125.0;175.0;250.0;1.0;1.0;150.0
+Summer Pudding$Dessert$4$Strawberries;Caster Sugar;Raspberries;Blackberries;Redcurrants;Bread$300.0;175.0;500.0;250.0;100.0;7.0
+Summer Pistou$Vegetarian$4$Rapeseed Oil;Garlic Clove;Cannellini Beans;Green Beans;Vegetable Stock;Parmesan;Courgettes;Basil;Leek;Tomatoes$15.0;3.0;400.0;200.0;1.0;40.0;1.0;1.0;2.0;3.0
+Split Pea Soup$Side$4$Peas;Bay Leaves;Carrots;Onions;Celery;Ham;Frozen Peas;Bread$200.0;2.0;2.0;2.0;1.0;1000.0;300.0;1.0
+Sugar Pie$Dessert$4$Salt;Vanilla Extract;Plain Flour;Butter;Eggs;Brown Sugar;Milk$5.0;5.0;1.0;1.0;2.0;2.0;2.0
+Steak Diane$Beef$4$Mushrooms;Pepper;Brandy;Butter;Canola Oil;Worcestershire Sauce;Salt;Beef Fillet;Tabasco Sauce;Challots;Garlic;Parsley;Dijon Mustard;Beef Stock;Heavy Cream;Chives$4.0;1.0;1.0;30.0;30.0;15.0;1.0;4.0;1.0;1.0;2.0;1.0;15.0;2.0;1.0;1.0
+Saltfish and Ackee$Seafood$4$Hotsauce;Onion;Pepper;Ackee;Olive Oil;Curry Powder;Yellow Pepper;Salt;Paprika;Salt Cod;Suet;Red Pepper;Tomatoes;Self-raising Flour;Jerusalem Artichokes$5.0;1.0;1.0;400.0;1.0;10.0;1.0;1.0;5.0;450.0;30.0;1.0;200.0;250.0;10.0
+Sweet and Sour Pork$Pork$4$Water;Salt;Egg;Starch;Coriander;Soy Sauce;Tomato Puree;Vinegar;Pork;Sugar$1.0;1.0;1.0;10.0;1.0;10.0;30.0;10.0;200.0;5.0
+Szechuan Beef$Beef$4$Water;Hotsauce;Oyster Sauce;Pepper;Starch;Onion;Mushrooms;Ginger;Egg White;Cooking wine;Salt;Sesame Seed Oil;Oil;Carrots;Celery;Green Pepper;Soy Sauce;Garlic;Beef;Sugar$1.0;1.0;15.0;1.0;45.0;3.0;1.0;5.0;1.0;15.0;1.0;5.0;60.0;1.0;1.0;3.0;15.0;5.0;1.0;5.0
+Shrimp Chow Fun$Seafood$4$Oyster Sauce;Egg;Prawns;Pepper;Onion;Ginger;Vinegar;Bean Sprouts;Rice Stick Noodles;Cooking wine;Sesame Seed Oil;Oil;Soy Sauce;Cornstarch;Minced Garlic;Spring Onions;Sugar$15.0;1.0;8.0;1.0;1.0;5.0;1.0;1.0;1.0;15.0;10.0;60.0;15.0;30.0;5.0;1.0;1.0
+Salmon Avocado Salad$Seafood$4$Lime;Honey;Salmon;Mint;Avocado;Spinach;Olive Oil;Cucumber$1.0;10.0;400.0;60.0;3.0;400.0;45.0;1.0
+Salmon Eggs Eggs Benedict$Breakfast$4$White Wine Vinegar;Egg;Lemon Juice;Butter;Unsalted Butter;Smoked Salmon;English Muffins;Eggs$40.0;3.0;10.0;1.0;125.0;8.0;2.0;4.0
+Shakshuka$Vegetarian$4$Caster Sugar;Red Chilli;Red Onions;Coriander;Garlic;Olive Oil;Cherry Tomatoes;Feta;Eggs$15.0;1.0;2.0;1.0;1.0;15.0;800.0;1.0;4.0
+Smoked Haddock Kedgeree$Breakfast$4$Chicken Stock;Onion;Butter;Cinnamon Stick;Basmati Rice;Lemon;Eggs;Bay Leaf;Turmeric;Smoked Haddock;Cardamom;Parsley$1.0;1.0;50.0;1.0;450.0;1.0;3.0;1.0;1.0;750.0;3.0;3.0
+Stamppot$Pork$4$Salt;Nutmeg;Potatoes;Pepper;Shallots;Butter;Sausages;Kale;Bay Leaf;Milk$1.0;1.0;1500.0;1.0;2.0;45.0;2.0;750.0;2.0;500.0
+Snert (Dutch Split Pea Soup)$Side$4$Water;Celeriac;Peas;Carrots;Vegetable Stock Cube;Celery;Potatoes;Onion;Sausages;Leek;Pork$2.0;1.0;300.0;2.0;1.0;2.0;1.0;1.0;1.0;1.0;100.0
+Spaghetti alla Carbonara$Pasta$4$Egg Yolks;Salt;Spaghetti;Bacon;Black Pepper;Pecorino$6.0;1.0;320.0;150.0;1.0;50.0
+Soy-Glazed Meatloaves with Wasabi Mashed Potatoes & Roasted Carrots$Beef$4$Ground Beef;Carrots;Scallions;Potatoes;Garlic Powder;Butter;Soy Sauce;Garlic;Vegetable Oil;Sugar;Bread$1.0;12.0;1.0;5.0;1.0;30.0;2.0;2.0;5.0;10.0;1.0
+Skillet Apple Pork Chops with Roasted Sweet Potatoes & Zucchini$Pork$4$Apples;Chicken Stock;Zucchini;Potatoes;Butter;Garlic;Vegetable Oil;Lemon;Pork;Sugar$1.0;1.0;1.0;2.0;30.0;2.0;15.0;1.0;2.0;2.0
+Strawberry Rhubarb Pie$Dessert$4$Water;Lemon Juice;Butter;Unsalted Butter;Flour;Salt;Strawberries;Cornstarch;Rhubarb;Cinnamon;Sugar;Milk$1.0;5.0;1.0;30.0;350.0;5.0;450.0;45.0;450.0;1.0;180.0;30.0
+Stuffed Lamb Tomatoes$Lamb$4$Chicken Stock;Garlic Clove;Onion;Dill;Mint;Olive Oil;Tomato Puree;Lamb;Tomatoes;Chopped Parsley;Cinnamon;Sugar;Rice$100.0;2.0;1.0;60.0;15.0;60.0;2.0;200.0;4.0;30.0;15.0;1.0;50.0
+Teriyaki Chicken Casserole$Chicken$4$brown sugar;minced garlic;ground ginger;chicken breasts;stir-fry vegetables;soy sauce;cornstarch;water;brown rice$1.0;1.0;1.0;2.0;1.0;3.0;4.0;1.0;3.0
+Tandoori chicken$Chicken$4$ground cumin;red onions;Greek yogurt;chilli powder;vegetable oil;garam masala;lemons;chicken thighs;paprika;ginger;garlic clove;turmeric$3.0;2.0;300.0;1.0;1.0;3.0;2.0;16.0;20.0;1.0;4.0;1.0
+Thai Green Curry$Chicken$4$garlic;potatoes;Thai green curry paste;basil;lime;green beans;sunflower oil;coconut milk;Thai fish sauce;Chicken;Sugar;Rice$1.0;225.0;20.0;1.0;2.0;100.0;15.0;400.0;10.0;450.0;5.0;1.0
+Toad In The Hole$Pork$4$eggs;horseradish;milk;vegetable oil;cherry tomatoes;sausages;plain flour$2.0;1.0;225.0;45.0;200.0;8.0;100.0
+Turkey Meatloaf$Miscellaneous$4$Turkey Mince;Cannellini Beans;Onion;Barbeque Sauce;Breadcrumbs;Garlic;Parsley;Olive Oil;Tomato Puree;Worcestershire Sauce;Eggs$500.0;800.0;1.0;2.0;85.0;1.0;2.0;1.0;15.0;2.0;1.0
+Tuna Nicoise$Seafood$4$Sunflower Oil;Tuna;Potatoes;Capers;Red Wine Vinegar;Red Onions;Olive Oil;Spinach;Eggs$50.0;400.0;450.0;2.0;1.0;1.0;2.0;100.0;4.0
+Tahini Lentils$Vegetarian$4$Green Beans;Lentils;Tahini;Red Onions;Courgettes;Garlic;Olive Oil;Kale;Lemon;Yellow Pepper$200.0;250.0;50.0;1.0;1.0;1.0;2.0;100.0;1.0;1.0
+Three Fish Pie$Seafood$4$Gruyère;Plain Flour;Potatoes;Salmon;Butter;Haddock;Eggs;Smoked Haddock;White Wine;Parsley;Leek;Milk$50.0;75.0;1000.0;250.0;75.0;250.0;6.0;250.0;150.0;2.0;2.0;568.0
+Treacle Tart$Dessert$4$Plain Flour;Lemons;Butter;Breadcrumbs;Eggs;Golden Syrup$250.0;2.0;135.0;150.0;1.0;400.0
+Tarte Tatin$Dessert$4$Plain Flour;Caster Sugar;Butter;Puff Pastry;Creme Fraiche;Braeburn Apples$1.0;100.0;85.0;300.0;1.0;6.0
+Three-cheese souffles$Miscellaneous$4$Bay Leaves;Plain Flour;Gruyère;Double Cream;Butter;Eggs;Goats Cheese;English Mustard;Parmesan;Cayenne Pepper;Spinach;Milk$2.0;75.0;140.0;150.0;50.0;3.0;8.0;1.0;25.0;1.0;1.0;300.0
+Tourtiere$Pork$4$Minced Pork;Garlic Clove;Sunflower Oil;Nutmeg;Potatoes;Egg;Onion;Vegetable Stock;Shortcrust Pastry;Cinnamon;Allspice$500.0;1.0;5.0;1.0;1.0;1.0;1.0;100.0;400.0;1.0;1.0
+Timbits$Dessert$4$Salt;Oil;Egg;Flour;Icing Sugar;Sugar;Baking Powder;Milk$1.0;45.0;1.0;2.0;1.0;1.0;15.0;3.0
+Tunisian Orange Cake$Dessert$4$Vanilla Extract;Caster Sugar;Olive Oil;Flour;Orange;Baking Powder;Eggs$10.0;300.0;75.0;280.0;1.0;15.0;4.0
+Tunisian Lamb Soup$Lamb$4$Chicken Stock;Onion;Lemon Juice;Pepper;Cumin;Chickpeas;Tomato Puree;Salt;Lamb Mince;Macaroni;Garlic;Spinach;Harissa Spice$1.0;1.0;1.0;1.0;15.0;400.0;45.0;1.0;500.0;150.0;2.0;300.0;15.0
+Tuna and Egg Briks$Seafood$4$Hotsauce;Filo Pastry;Tuna;Apricot Jam;Lemon Juice;Olive Oil;Spinach;Tomatoes;Spring Onions;Cucumber;Eggs$1.0;4.0;1.0;60.0;15.0;30.0;200.0;4.0;8.0;1.0;2.0
+Vegan Lasagna$Vegan$4$spinach;onion;vinegar;zucchini;mustard;green red lentils;coriander;flour;vegan butter;soya milk;lasagne sheets;carrot$150.0;1.0;5.0;1.0;1.0;1.0;1.0;4.0;35.0;300.0;10.0;1.0
+Vegan Chocolate Cake$Vegan$4$cacao;self raising flour;flax eggs;almond milk;baking powder;water;coco sugar;vanilla$1.0;2.0;2.0;1.0;5.0;1.0;1.0;5.0
+Vietnamese Grilled Pork (bun-thit-nuong)$Pork$4$Egg Rolls;Peanuts;Pepper;Mint;Soy sauce;Olive Oil;Rice Vermicelli;Fish Sauce;Challots;Garlic;Cucumber;Pork;Sugar$5.0;1.0;1.0;1.0;1.0;3.0;1.0;1.0;3.0;1.0;1.0;1.0;1.0
+Venetian Duck Ragu$Pasta$4$Plain Flour;Bay Leaves;Onions;Paccheri Pasta;Olive Oil;Chopped Tomatoes;Chicken Stock Cube;Duck Legs;Parmesan Cheese;Rosemary;Garlic;Cinnamon;Red Wine;Sugar;Milk$10.0;2.0;2.0;600.0;1.0;800.0;1.0;4.0;1.0;3.0;2.0;2.0;250.0;5.0;30.0
+Vegetarian Casserole$Vegetarian$4$Vegetable Stock Cube;Onion;Cumin;Lentils;Courgettes;Tomato;Thyme;Yellow Pepper;Rapeseed Oil;Carrots;Paprika;Celery;Garlic;Red Pepper$250.0;1.0;1.0;250.0;2.0;2.0;3.0;1.0;1.0;3.0;5.0;2.0;3.0;1.0
+Vegetarian Chilli$Vegetarian$4$Roasted Vegetables;Kidney Beans;Chopped Tomatoes;Mixed Grain$400.0;1.0;1.0;1.0
+Vegetable Shepherd’s Pie$Beef$4$Bay Leaves;Potatoes;Mushrooms;Onion;Kosher Salt;Tomato Puree;Olive Oil;Sage;Brown Lentils;Dry White Wine;Vegetable Stock;Small Potatoes;Soy Sauce;Rosemary;Salted Butter;Garlic;Cornstarch;Parsley;Chives$1.0;3.0;1.0;3.0;5.0;30.0;1.0;1.0;3.0;2.0;8.0;3.0;10.0;2.0;1.0;6.0;30.0;1.0;1.0
+White chocolate creme brulee$Dessert$4$White Chocolate Chips;Egg Yolks;Double Cream;Caster Sugar;Vanilla$100.0;6.0;568.0;30.0;1.0
+Wontons$Pork$4$Water;Garlic Clove;Sesame Seed Oil;Carrots;Wonton Skin;Oil;Celery;Soy Sauce;Ginger;Spring Onions;Pork$1.0;3.0;5.0;3.0;1.0;1.0;3.0;15.0;5.0;6.0;1.0
+Yaki Udon$Vegetarian$4$Udon Noodles;Sesame Seed Oil;Caster Sugar;Onion;Mirin;Soy Sauce;Cabbage;Shiitake Mushrooms;Spring Onions;Worcestershire Sauce$250.0;30.0;1.0;1.0;60.0;30.0;0.25;10.0;4.0;1.0

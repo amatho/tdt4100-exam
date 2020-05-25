@@ -1,18 +1,13 @@
 # Eksamen TDT4100 våren 2020
 
-**Førebuing til eksamen - sjekk at ting verkar**
+Eksamenen er delt i to, med fleire oppgåver i kvar del:
 
-Dette er utviklingsprosjektet for hjemmeeksamen 2020. Vi har lagt inn ein pakke **sampla** med nokre filer:
+- [Del 1](src/stuff/README.md) inneheld separate oppgåver, som kvar for seg testar ulik kunnskap i pensum. Del 1 er tenkte å dekka 25% av eksamen.
+- [Del 2](src/food/README.md) inneheld ein større programmeringsbit, med fem deloppgåver. Desse tel 75% av eksamen.
 
-- [Sample.java](src/sample/Sample.java)
-- [SampleApp.java](src/sample/SampleApp.java)
-- [SampleController.java](src/sample/SampleController.java)
-- [SampleTest.java](src/sample/SampleTest.java)
-- [sample.fxml](src/sample/sample.fxml)
+Hugs at det er lett å fokusera for mykje på å oppnå korrekt, køyrande kode. Ikkje bruk for mykje tid på dette, husk at det vil gi fleire poeng å 'nesten klara' tre oppgåver enn å klara éin full ut og ikkje ha tid til dei to siste. Viss du ikkje skulle klara å implementera ein metode i ein del kan du sjølvsagt bruka denne vidare som om han verka.
 
-Det er viktig at du køyrer desse, og ser at det fungerer greitt. Viss det virke skal du ha eit oppsett som vil fungera på eksamen. Då blir det lagt ut nye pakkar som baserer seg på same oppsett. Du kan òg øva deg på zipping av prosjekt, som blir kravd for levering tilbake i Inspera ved eksamensslutt. Oppskrifta finn du under.
-
-Viss det ikkje fungerer vil vi tilrå at du installerer Eclipse på nytt, jamfør skildringa her: https://www.ntnu.no/wiki/display/tdt4100/Installasjon+av+Eclipse. Dette vil sikra deg at du har ein fersk installasjon. Det er ikkje noko problem å ha fleire versjonar av Eclipse installert samtidig. Viss det framleis ikkje fungerer tar du kontakt med oss
+Oppgåvene har ei tekstskildring, men denne er ikkje alltid utfyllande. Dei mest utfyllande krava til ein metode står i dens javadoc, altså ein kommentar som står før metoden sjølv i kjeldekoden.
 
 ## Levering
 

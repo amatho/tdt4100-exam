@@ -5,6 +5,8 @@ module ord2020 {
 	requires junit;
 
 	exports sample;
+	exports food;
 
 	opens sample to javafx.fxml;
+	opens food to javafx.fxml;
 }
